@@ -24,7 +24,7 @@ public class BaseClass
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
-				// comment
+				// comment in Branch 1
 		break;
 		
 		case "Edge":
