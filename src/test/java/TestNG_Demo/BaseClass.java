@@ -45,7 +45,9 @@ public class BaseClass
 	}
 	
 	//Closing the Browser
-	
+	//quit the browser
+	//quit the browser
+	//quit the browser
 	@AfterMethod
 	public void tearDown()
 	{
